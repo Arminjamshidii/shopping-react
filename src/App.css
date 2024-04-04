@@ -1,0 +1,33 @@
+
+:root {
+  --background-color-light: #ffffff;
+  --background-color-dark: #353535;
+  --text-color-light: #333533;
+  --text-color-dark: #f5ebe0;
+}
+
+
+
+.dark{
+  background-color: var(--background-color-dark);
+  color: var(--text-color-dark) !important;
+  transition: all 0.3s ease-out;
+}
+
+.light{
+  background-color: var(--background-color-light);
+  color: var(--text-color-light);
+  transition: all 0.3s ease-in;
+
+}
+
+body.light {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+body.dark {
+  background-color: #353535;
+  color: #ffffff;
+}
+
