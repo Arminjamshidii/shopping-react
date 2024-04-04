@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shopping-react/static/css/main.66da3808.css",
+    "main.js": "/shopping-react/static/js/main.54b8ad35.js",
+    "index.html": "/shopping-react/index.html",
+    "static/media/shopping.svg": "/shopping-react/static/media/shopping.a0082bd565d460960debe26ad88a4cf2.svg",
+    "static/media/trash.svg": "/shopping-react/static/media/trash.3b106fc6789b1ff09aba8a30ae7dc1ed.svg",
+    "main.66da3808.css.map": "/shopping-react/static/css/main.66da3808.css.map",
+    "main.54b8ad35.js.map": "/shopping-react/static/js/main.54b8ad35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66da3808.css",
+    "static/js/main.54b8ad35.js"
+  ]
+}
